@@ -1,5 +1,8 @@
 # Freemail - 临时邮箱服务
 
+> **来源声明**：本仓库是 [idinging/freemail](https://github.com/idinging/freemail)（Apache-2.0）的部署副本，上游代码与文档以原仓库为准；许可证见 [LICENSE](LICENSE)。
+
+
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/idinging/freemail)
 
 一个基于 Cloudflare Workers + D1 + R2 构建的**开源临时邮箱服务**，支持邮件接收、发送、转发、用户管理等完整功能。
